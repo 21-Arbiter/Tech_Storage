@@ -17,4 +17,4 @@
 
 ## 목차
 
-- [2026-07-21 — LLM 에이전트의 "하네스(Harness)" — Claude Code를 중심으로](기술동향/2026-07-21-claude-code-harness.md)
+- [2026-07-21 — 하네스 엔지니어링(Harness Engineering)이란 무엇인가](기술동향/2026-07-21-claude-code-harness.md)
